@@ -13,7 +13,7 @@ A wide range of problems in robotics as well as in computer-vision involve the m
 
 ## Installation
 ```
-git clone --recursive https://github.com/Sologala/pyg2o.git
+git clone --recursive https://github.com/Sologala/g2opy.git
 cd g2opy
 python setup.py install
 ```
